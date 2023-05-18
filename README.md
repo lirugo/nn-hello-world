@@ -2,7 +2,7 @@
 
 A simple Python script showing how the work simplest neural network
 
-Check this blog post for background: [Hello World in Neural Network || Perceptron emulates AND & OR operations](https://medium.com/@lirugo/hello-world-in-neural-network-perceptron-emulates-and-or-operations-fd2e973ab877)
+Check this blog post for background: [Hello World in Neural Network || Perceptron emulates AND & OR operations](https://lirugo.medium.com/hello-world-in-neural-network-perceptron-emulates-and-or-operations-fd2e973ab877)
 
 # Contact
 
